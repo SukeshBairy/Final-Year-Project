@@ -4,9 +4,10 @@ Jyothy Insititute of Technology, Tataguni, Bangalore - 560082
 Guide : Mr. Harish K,  Assistant Prof, Dept.CSE
 
 Team Members: Sukesh S Bairy      1JT17CS046
+	      Supreeth S Athreyas 1JT17CS048	
 	      Thanmai B K         1JT17CS054
               Varshini S Kashyap  1JT17CS057
-              Supreeth S Athreyas 1JT17CS048
+            
 
 
 Instructions to Run the Complete Application
